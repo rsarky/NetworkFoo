@@ -1,3 +1,5 @@
+//Add error checking to both server and client.
+//Prettify Output
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
